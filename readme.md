@@ -75,5 +75,9 @@ Videos in this section of the [full Udemy course](https://www.udemy.com/blendert
 * UV sphere, ico sphere and cube!
 * Brief look at subdivision modifier.
 
+## BP16 Subdividing an Edge and To Sphere
+* Use the Subdivision tool to add edge geometry.
+* Use ‘to sphere’ to create a circular hole.
+
 ---
 Click [here](https://www.udemy.com/blendertutorial/?couponCode=GitHubSpecial) to find out more about the course, and how we build these assets step-by-step.
