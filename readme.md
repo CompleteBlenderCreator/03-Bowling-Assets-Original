@@ -64,5 +64,16 @@ Videos in this section of the [full Udemy course](https://www.udemy.com/blendert
 * About smooth shading & normals.
 * Why you may want multiple levels of detail.
 
+## Creating Collider Meshes
+* How to control the number of vertices.
+* Creating a Convex Hull.
+* Introducing the Decimate modifier.
+
+## Choosing The Right Sphere
+* Learn that the sphere is the defining shape.
+* The mesh topology can vary greatly.
+* UV sphere, ico sphere and cube!
+* Brief look at subdivision modifier.
+
 ---
 Click [here](https://www.udemy.com/blendertutorial/?couponCode=GitHubSpecial) to find out more about the course, and how we build these assets step-by-step.
