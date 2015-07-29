@@ -82,5 +82,22 @@ Videos in this section of the [full Udemy course](https://www.udemy.com/blendert
 ## Extruding to a Normal
 * Change the axis for extrusion for finer control.
 
+## Importing Blender Files
+* Showing you how to import multiple Blender files into a scene.
+* Learning the difference between append and linked.
+* Understanding that a composited scene can exist with both types.
+
+* APPENDING
+* When making a scene with multiple models.
+* You have control over the model, scale, position etc.
+* Can edit the model, like taking a copy into the current Blender file.
+* e.g. Coffee table plus two cups…
+
+* LINKED
+* When making an object of components.
+* You have no control over the models position, scale etc.
+* You still cannot edit the model, done at source.
+* e.g.  An anotomical model…
+
 ---
 Click [here](https://www.udemy.com/blendertutorial/?couponCode=GitHubSpecial) to find out more about the course, and how we build these assets step-by-step.
