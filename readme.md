@@ -1,7 +1,7 @@
 # Section 3 - Bowling Assets
 **A bowling ball and bowling pin to demonstrate more mesh concepts, and very simple materials.**
 
-Part of the Complete Blender Creator course on Udemy, see [here](https://www.udemy.com/blendertutorial/?couponCode=GitHubSpecial) for a special GitHub offer. The full course is part of [this](https://www.kickstarter.com/projects/bentristem/how-to-create-3d-assets-using-blender-online-cours) Kickstarter campaign which was 1000% funded.
+Part of the Complete Blender Creator course on Udemy, see [here](https://www.udemy.com/blendertutorial/?couponCode=GitHubDiscount) for a special GitHub offer. The full course is part of [this](https://www.kickstarter.com/projects/bentristem/how-to-create-3d-assets-using-blender-online-cours) Kickstarter campaign which was 1000% funded.
 
 These are just the files from the course, not the actual tutorial vidoes. At the time of writing this course has several hours of high-quality videos.
 
@@ -12,7 +12,7 @@ Enjoy yourselves.
 Ben Tristem & Michael Bridges
 
 ----
-Videos in this section of the [full Udemy course](https://www.udemy.com/blendertutorial/?couponCode=GitHubSpecial)...
+Videos in this section of the [full Udemy course](https://www.udemy.com/blendertutorial/?couponCode=GitHubDiscount)...
 
 ## Lean Production Pipeline
 * Introducing lean production / rapid prototyping.
@@ -100,4 +100,4 @@ Videos in this section of the [full Udemy course](https://www.udemy.com/blendert
 * e.g.  An anotomical model…
 
 ---
-Click [here](https://www.udemy.com/blendertutorial/?couponCode=GitHubSpecial) to find out more about the course, and how we build these assets step-by-step.
+Click [here](https://www.udemy.com/blendertutorial/?couponCode=GitHubDiscount) to find out more about the course, and how we build these assets step-by-step.
