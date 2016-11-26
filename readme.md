@@ -26,11 +26,13 @@ Videos in this section of the [full Udemy course](https://www.udemy.com/blendert
 * Planning your model.
 * Know the importance of research.
 
-## Blender Model Scale
-* From around 0.01BU to 100BU.
-* Blender doesn’t work well outside this range.
-* Rule of thumb, use the grid floor as a stage.
-* Pick an order of magnitude suitable for the level of detail.
+## Blender Model Scale (re-Recorded 26/11/2016)
+* Has it’s own units called Blender Units (BU)
+* You can define a Blender unit as several units.
+* Works well between 0.01 - 100 BU
+* Rule of thumb: Use the Grid Floor as a stage.
+* Order of magnitude suitable for the Level of Detail
+
 
 ## Importing Reference Material
 * There are 2 ways of importing reference material.
