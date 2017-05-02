@@ -141,6 +141,3 @@ scene and compose the bowling balls so they are looking dynamic and awesome!
 
 A final lecture concluding this section.
 We hope you have enjoyed in and will see you in the next section.
-
----
-Find out more about our [Complete Blender Creator Course](https://www.udemy.com/blendertutorial/?couponCode=GitHubDiscount).
