@@ -37,13 +37,15 @@ Introduction to section
 + Planning your model.
 + Know the importance of research.
 
-### Blender Model Scale ###
+### 07 Blender Model Scale
 
 + Has it’s own units called Blender Units (BU)
 + You can define a Blender unit as several units.
 + Works well between 0.01 - 100 BU
 + Rule of thumb: Use the Grid Floor as a stage.
 + Order of magnitude suitable for the Level of Detail
+
++ Updated 27/09/2017
 
 **Scale, Level of Detail and Models**
 
