@@ -1,9 +1,8 @@
-### Section 3 Introduction ###
+### 1 Section 3 Introduction ###
 
-Introduction to section
-
-### Your Section 3 Assets ###
-
++ Introduction to Section 3
++ Michael and Ben introduce you to the section
++ Overview of what is coming next in the section
 + This is the Lecture where you will find all of the files you will need to complete the Section.
 + Please Download your Asset Pack now.
 + Your files will come in a Zip file ready for extraction to your computer.
